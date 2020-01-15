@@ -304,7 +304,7 @@ p {
 }
 
 .main__process-video-view:hover {
-    opacity: 0.27;
+    opacity: 0.7;
 }
 
 .main__process-video-btn {
@@ -313,10 +313,6 @@ p {
     color: var(--green);
     opacity: 1;
     transition: 0.5s;
-}
-
-.main__process-video-view:hover .main__process-video-btn{
-    opacity: 0;
 }
 
 .main__section-products {
